@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apollo-Soyuz Test Project
+* source:	https://sketchfab.com/3d-models/apollo-soyuz-test-project-50f7ea48da2a4de98257a6476ca657dc
+* author:	uperesito (https://sketchfab.com/uperesito)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apollo-Soyuz Test Project" (https://sketchfab.com/3d-models/apollo-soyuz-test-project-50f7ea48da2a4de98257a6476ca657dc) by uperesito (https://sketchfab.com/uperesito) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
